@@ -1,10 +1,16 @@
 body {
   background-color: black;
   text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+footer p {
+  text-align: right;
+  color: gray;
+  font-size: 21px;
 }
 
 .top_header {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: normal;
   font-size: 50px;
   color: white;
@@ -16,14 +22,12 @@ body {
 }
 
 .slogan {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: 300;
   font-size: 42px;
   color: white;
 }
 
 .message {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 21px;
   color: gray;
 }
