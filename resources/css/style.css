@@ -1,5 +1,6 @@
 body {
   background-color: black;
+  text-align: center;
 }
 
 .top_header {
@@ -7,6 +8,22 @@ body {
   font-weight: normal;
   font-size: 50px;
   color: white;
-  text-align: center;
 }
 
+.support_text {
+  font-size: 16px;
+  color: aquamarine;
+}
+
+.slogan {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.message {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 21px;
+  color: gray;
+}
